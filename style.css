@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-image: url('images/header.png');
+    background-image: url('Images/header.png');
     background-size: contain;
     background-repeat: repeat-x;
 
@@ -90,7 +90,7 @@ header nav ul li div a {
     left: 0;
     width: 25px;
     height: 25px;
-    background-image: url('images/container/top-left.png');
+    background-image: url('Images/container/top-left.png');
 }
 
 /* Правый верхний угол */
@@ -99,7 +99,7 @@ header nav ul li div a {
     right: 0;
     width: 25px;
     height: 25px;
-    background-image: url('images/container/top-right.png');
+    background-image: url('Images/container/top-right.png');
 }
 
 /* Левый нижний угол */
@@ -108,7 +108,7 @@ header nav ul li div a {
     left: 0;
     width: 50px;
     height: 50px;
-    background-image: url('images/container/bottom-left.png');
+    background-image: url('Images/container/bottom-left.png');
 }
 
 /* Правый нижний угол */
@@ -117,7 +117,7 @@ header nav ul li div a {
     right: 0;
     width: 50px;
     height: 50px;
-    background-image: url('images/container/bottom-right.png');
+    background-image: url('Images/container/bottom-right.png');
 }
 
 /* Верхняя грань */
@@ -126,7 +126,7 @@ header nav ul li div a {
     left: 25px;
     right: 25px;
     height: 25px;
-    background-image: url('images/container/top-edge.png');
+    background-image: url('Images/container/top-edge.png');
     background-size: contain;
     background-repeat: repeat-x;
 }
@@ -137,7 +137,7 @@ header nav ul li div a {
     left: 50px;
     right: 50px;
     height: 50px;
-    background-image: url('images/container/bottom-edge.png');
+    background-image: url('Images/container/bottom-edge.png');
     background-size: contain;
     background-repeat: repeat-x;
 }
@@ -148,7 +148,7 @@ header nav ul li div a {
     bottom: 25px;
     left: 0;
     width: 25px;
-    background-image: url('images/container/left-edge.png');
+    background-image: url('Images/container/left-edge.png');
     background-size: contain;
     background-repeat: repeat-y;
 }
@@ -159,7 +159,7 @@ header nav ul li div a {
     bottom: 25px;
     right: 0;
     width: 25px;
-    background-image: url('images/container/right-edge.png');
+    background-image: url('Images/container/right-edge.png');
     background-size: contain;
     background-repeat: repeat-y;
 }
